@@ -18,5 +18,5 @@ Tools: Python (Pandas, NumPy, Matplotlib, Seaborn)
 - Audit shipping process for anomaly
 
 ## 👨‍💻 Author
-Muhammad Rijal Fadilah | Certified Data Analyst (BNSP) DQLab | Aspiring Data Scientist @ Digital Skola
+Aprijal, S.E | Certified Data Analyst (BNSP) DQLab | Aspiring Data Scientist @ Digital Skola
 Colab: https://colab.research.google.com/drive/1W3tNRbfX0saYZHYzlWTfWrf9hIrM2Myw
